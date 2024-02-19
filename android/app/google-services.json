@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213683772516",
+    "project_id": "livehelp-62cf6",
+    "storage_bucket": "livehelp-62cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213683772516:android:74897ab69eb869d5d21371",
+        "android_client_info": {
+          "package_name": "com.example.livehelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3nMDpl31j3cHF6-wlKvX_ZjQMwnpf3OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
