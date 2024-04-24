@@ -1,6 +1,6 @@
-# livehelp
+# Livehelp
 
-A new Flutter project.
+This is an urgent contact app which can directly connect with emergency services.
 
 ## Getting Started
 
